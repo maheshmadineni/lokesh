@@ -1,9 +1,4 @@
-llllllll
-
-oooooooo
-24343434
-343
-434
-
-4344443
-4
+black
+red 
+white
+123456
